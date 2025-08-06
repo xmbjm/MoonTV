@@ -197,6 +197,10 @@
             "name": "91|AV",
             "adult": "true"
         },
+        "senlin": {
+            "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+            "name": "森林专场|AV"
+        },
         "naixx": {
             "api": "https://naixxzy.com/api.php/provide/vod",
             "name": "奶香香|AV"
@@ -218,9 +222,14 @@
             "name": "奥斯卡资源|AV",
             "adult": "true"
         },
-        "slzy": {
-            "api": "https://slapibf.com/api.php/provide/vod",
-            "name": "森林资源|AV",
+        "fqzy": {
+            "api": "https://fqzy.me//api.php/provide/vod",
+            "name": "番茄资源|AV",
+            "adult": "true"
+        },
+         "sngzy": {
+            "api": "https://api.sexnguon.com/api.php/provide/vod",
+            "name": "色南国资源|AV",
             "adult": "true"
         },
         "shayu": {
@@ -264,18 +273,8 @@
             "adult": "true"
         },
         "dadi": {
-            "api": "http://dadiapi.com/sea_api.php",
+            "api": "http://dadiapi.com/sea_api.php/provide/vod",
             "name": "大地资源|AV",
-            "adult": "true"
-        },
-        "fqzy": {
-            "api": "https://fqzy.me//api.php/provide/vod",
-            "name": "番茄资源|AV",
-            "adult": "true"
-        },
-         "sngzy": {
-            "api": "https://api.sexnguon.com/api.php/provide/vod",
-            "name": "色南国资源|AV",
             "adult": "true"
         },
         "lbapi": {
